@@ -94,7 +94,7 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
@@ -111,27 +111,26 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
+            "collection": "t-shirt-collections-under-500-customers-choice"
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "formal-attire-collection-under-1000"
+          }
+        },
+        "df461f1e-3baa-4be6-848f-74966155d698": {
+          "type": "collection",
+          "settings": {
+            "collection": "sleepwear-pajama-collection-under-350"
           }
         }
       },
       "block_order": [
         "collection-0",
-        "product",
-        "collection-1"
+        "collection-1",
+        "df461f1e-3baa-4be6-848f-74966155d698"
       ],
       "settings": {
         "heading": "Multimedia collage",
