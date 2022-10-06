@@ -8,7 +8,7 @@
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#ffffff",
-    "gradient_background_1": "",
+    "gradient_background_1": "linear-gradient(176deg, rgba(234, 221, 226, 1), rgba(168, 255, 251, 1) 100%)",
     "colors_background_2": "#f3f3f3",
     "gradient_background_2": "",
     "type_header_font": "assistant_n4",
@@ -141,7 +141,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-1",
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
