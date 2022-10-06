@@ -1,9 +1,9 @@
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#121212",
+    "colors_accent_1": "#8c2020",
     "gradient_accent_1": "",
-    "colors_accent_2": "#334fb4",
+    "colors_accent_2": "#8f96b1",
     "gradient_accent_2": "",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
@@ -127,7 +127,7 @@
             "settings": {
               "text": "Welcome to our store",
               "text_alignment": "center",
-              "color_scheme": "accent-1",
+              "color_scheme": "accent-2",
               "link": ""
             }
           }
